@@ -1,0 +1,4 @@
+The time of CPU computation for 10 times scene is 0.36017370223999023
+The time of GPU computation for 10 times scene is 0.3372049331665039
+The time of CPU computation for 20 times scene is 0.7189359664916992
+The time of GPU computation for 20 times scene is 0.6698050498962402
